@@ -1,3 +1,5 @@
 [gd_scene format=3 uid="uid://emhni3bcspfn"]
 
 [node name="Node2D" type="Node2D" unique_id=1624210718]
+
+[node name="Node" type="Node" parent="." unique_id=1088781332]
